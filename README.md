@@ -6,6 +6,8 @@ For the Arduino code alone, or similar projects, https://github.com/MarvelMathes
 
 Also stay in touch with the team!
 
-Gautham R gautham-here
-Lokesh R lok341
-Mathesh V MarvelMathesh
+Gautham R gautham-here https://github.com/gautham-here
+
+Lokesh R lok341 https://github.com/lok341
+
+Mathesh V MarvelMathesh https://github.com/MarvelMathesh
